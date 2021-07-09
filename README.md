@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Santiago Revilla</h1>
 <h3 align="center">Dev @ jPOS.org</h3>
 
-<p align="left"> <a href="https://twitter.com/sprevilla" target="blank"><img src="https://img.shields.io/twitter/follow/sprevilla?logo=twitter&style=for-the-badge" alt="sprevilla" /></a> </p>
-
-- 🔭 I’m currently working on [jPOS.org](http://jpos.org)
+<!-- <p align="left"> <a href="https://twitter.com/sprevilla" target="blank"><img src="https://img.shields.io/twitter/follow/sprevilla?logo=twitter&style=for-the-badge" alt="sprevilla" /></a> </p> -->
 
 - 📫 How to reach me **spr@jpos.org**
 
